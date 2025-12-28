@@ -1,0 +1,111 @@
+{
+  "name": "Bhavin Desai",
+  "title": "Senior IAM / Infrastructure / Cloud Engineer",
+  "experience_years": 29,
+  "locations": ["Remote", "Hybrid (Raleigh/NC)", "USA"],
+  "target_roles": [
+    "Senior IAM Engineer",
+    "IAM Architect",
+    "PAM Architect",
+    "Senior Site Reliability Engineer",
+    "Senior Cloud / DevOps Engineer",
+    "Infrastructure Architect"
+  ],
+  "must_have": {
+    "remote_or_hybrid": true,
+    "min_seniority": ["Senior", "Lead", "Architect", "Principal"]
+  },
+  "domains": [
+    "Identity and Access Management",
+    "Infrastructure Architecture",
+    "Cloud and IaaS",
+    "DevOps and Automation",
+    "Monitoring and Observability",
+    "Virtualization and Clustering",
+    "Storage, Backup, and Disaster Recovery",
+    "Governance, SOX, ITIL"
+  ],
+  "iam": {
+    "years": 5,
+    "tools": [
+      "Keycloak",
+      "FreeIPA",
+      "DigiCert",
+      "HashiCorp Vault",
+      "RHCS",
+      "PrivacyIDEA",
+      "LDAP",
+      "SAML",
+      "OIDC",
+      "RBAC",
+      "IGA platforms"
+    ]
+  },
+  "cloud_container": {
+    "years": 5,
+    "platforms": [
+      "AWS",
+      "Azure",
+      "OpenStack (Neutron, Octavia, Manila, Cinder, Nova, Ironic, Glance)",
+      "OpenShift",
+      "Docker",
+      "Kubernetes",
+      "Proxmox"
+    ]
+  },
+  "automation_devops": {
+    "tools": [
+      "Ansible",
+      "AAP",
+      "Puppet",
+      "ArgoCD",
+      "Terraform",
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Python",
+      "Bash",
+      "KSH"
+    ]
+  },
+  "monitoring": {
+    "tools": [
+      "Splunk",
+      "SignalFx",
+      "Catchpoint",
+      "PagerDuty",
+      "Site24x7",
+      "Grafana",
+      "Zabbix",
+      "Nagios",
+      "OP5",
+      "Cacti",
+      "ELK",
+      "Prometheus"
+    ]
+  },
+  "virtualization_storage": {
+    "virtualization": ["VMware ESXi", "vCenter", "vCloud Director", "Proxmox"],
+    "storage": [
+      "3PAR",
+      "HP",
+      "EMC",
+      "NetApp",
+      "Dell",
+      "IBM",
+      "Data Domain",
+      "Ceph",
+      "MinIO"
+    ]
+  },
+  "leadership": {
+    "team_size_max": 10,
+    "activities": [
+      "Leading offshore teams",
+      "Mentoring engineers",
+      "Architecting enterprise solutions",
+      "SRE for mission-critical services",
+      "Stakeholder and vendor collaboration"
+    ]
+  }
+}
